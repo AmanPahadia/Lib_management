@@ -5,9 +5,9 @@ The Library Management System is a full-stack application that enables users to 
 FrontEnd is divided into two parts (ADMIN && CLIENT)
 
 ADMIN can do -  
-`1.manage books i.e. add/remove/update/delete books.`
+`1.manage books `
 
-`2.Check user' details i.e. name/id/borrowed book/etc`
+`2.Check user' `
 
 `3.Confirm user's book request && Confirm book Return`
 
@@ -18,7 +18,7 @@ CLIENT can do -
 
 `2.Request for a book`
 
-`3.Viewing/CRUD Operations on Profile || Dashboard`
+`3.Viewing Profile || Dashboard`
 
 # Demo
 

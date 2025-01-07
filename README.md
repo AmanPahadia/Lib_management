@@ -25,16 +25,16 @@ CLIENT can do -
 ![](https://mraalu.pythonanywhere.com/media/project/LMS.gif)
 
 
-# Lessons Learned
-
-1. Code Comments are Loveletter's you leave behind for your future self.
-2. If you cant Solve it, address it for your Future Self. He sure can!
 
 # Tech Stack
 
 **Frontend :** React, Bootstrap
 
-**Backend :** Node, Express, MongoDB
+**Backend :** Node, Express
+
+**Database :** MongoDB
+
+
 
 #### Developed By :- [@AmanPahadia](https://github.com/AmanPahadia)
 

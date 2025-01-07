@@ -2,7 +2,6 @@
 
 Its a Project related to Books management for a Libraries 📜.
 
-**_NOTE : This isn't an Ecommerce Website (There is no Payment System here)_**
 
 FrontEnd is divided into two parts (ADMIN && CLIENT)
 
@@ -21,14 +20,6 @@ CLIENT can do -
 `2.Request for a book`
 
 `3.Viewing/CRUD Operations on Profile || Dashboard`
-
-## Version Specifications :
-
-1. NodeJS : v18.16.0
-2. Express : v4.18.2
-3. ReactJS : v18.2.0
-4. Using MongoDB: v6.0.6
-   Using Mongosh: v2.0.2
 
 ## Demo
 
@@ -113,4 +104,4 @@ Starter Login Credentials : (Make sure to import database collections i.e. userd
 
 **Backend :** Node, Express, MongoDB
 
-#### Developed By :- [@MrAalu](https://www.github.com/MrAalu)
+#### Developed By :- [@AmanPahadia](https://github.com/AmanPahadia)
